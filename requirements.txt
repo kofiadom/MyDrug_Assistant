@@ -1,0 +1,4 @@
+groq
+streamlit
+byaldi 
+pdf2image

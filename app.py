@@ -6,7 +6,7 @@ import pdf2image
 #Using the ColPali model
 from byaldi import RAGMultiModalModel
 
-api_key = " "
+api_key = "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"
 
 # Initialize RAGMultiModalModel
 @st.cache_data(ttl=3600)
